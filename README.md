@@ -35,4 +35,5 @@ También si indentamos con varios espacios:
     CREATE TABLE tabla (
      a INT 
     );
+    ```
   
